@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "620752745702",
+    "firebase_url": "https://kumbhthon2026-e47d4-default-rtdb.firebaseio.com",
+    "project_id": "kumbhthon2026-e47d4",
+    "storage_bucket": "kumbhthon2026-e47d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620752745702:android:0d47bebec893203d77f727",
+        "android_client_info": {
+          "package_name": "com.example.digisangam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW7DY5Yb5LvIA6YU5GG2w8PYz5qNiJfhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620752745702:android:3cb463a1c20897d977f727",
+        "android_client_info": {
+          "package_name": "com.example.digisangam_volunteer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW7DY5Yb5LvIA6YU5GG2w8PYz5qNiJfhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620752745702:android:a5353f5252fb53e477f727",
+        "android_client_info": {
+          "package_name": "com.kumb.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW7DY5Yb5LvIA6YU5GG2w8PYz5qNiJfhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
